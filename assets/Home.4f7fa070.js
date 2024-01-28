@@ -1,31 +1,31 @@
 import {
-  t as $,
-  c as B,
-  v as G,
-  i as H,
-  l as I,
-  s as J,
-  f as K,
-  q as L,
-  e as M,
-  k as O,
-  g as P,
-  u as Q,
-  h as S,
-  m as U,
-  p as X,
-  x as Z,
-  r as a,
-  d as c,
-  o as d,
-  y as ee,
-  b as f,
-  j as g,
-  _ as h,
-  F as k,
-  a as s,
-  n as v,
-  w as y,
+    t as $,
+    c as B,
+    v as G,
+    i as H,
+    l as I,
+    s as J,
+    f as K,
+    q as L,
+    e as M,
+    k as O,
+    g as P,
+    u as Q,
+    h as S,
+    m as U,
+    p as X,
+    x as Z,
+    r as a,
+    d as c,
+    o as d,
+    y as ee,
+    b as f,
+    j as g,
+    _ as h,
+    F as k,
+    a as s,
+    n as v,
+    w as y,
 } from "./index.5553c785.js";
 const te = "/assets/logo.png",
   ne = { name: "Logo", props: { footer: { type: Boolean, default: !1 } } },
@@ -166,12 +166,13 @@ const ge = h(me, [["render", xe]]),
           { name: "Home", url: "/" },
           {
             name: "Chart",
-            url: "chartlink",
+            url: "https://dexscreener.com/solana/9dzz5vxscp43azbklbuhaj7abgryswgvnbz9tjqayhrd",
             anchor: !0,
           },
           {
             name: "Buy $WSB",
-            url: "buylink",
+            url: "
+https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
             anchor: !0,
           },
           { name: "Twitter", url: "twitterlink", anchor: !0 },
@@ -281,7 +282,8 @@ function je(e, n, t, r, l, u) {
           c(m, {
             class: "xl:flex hidden",
             "is-link": "",
-            link: "buylink",
+            link: "
+https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
             title: "Buy $WSB",
           }),
           s("div", ke, [
@@ -367,7 +369,8 @@ function je(e, n, t, r, l, u) {
                   c(m, {
                     "is-link": "",
                     light: "",
-                    link: "buylink",
+                    link: "
+https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
                     title: "Buy $WSB",
                     class: "mx-4 mb-4",
                   }),
@@ -682,20 +685,21 @@ function at(e, n, t, r, l, u) {
             {
               title: "Release The Inner Degen.",
               description:
-                "WALL STREET BABY is a memecoin by and for the Wall Street Bets community. The original Wall Street Bets logo was created for educational purposes by a third party and later used in the infamous Wall Street Bets reddit page. WSB is here to honor their creativity and everlasting memes.",
+                "WALL STREET BABY is a memecoin by and for the Wall Street Bets community. The original Wall Street Bets logo was created for educational purposes by a third party and later used in the infamous Wall Street Bets reddit page. WSB is here to honor their creativity and everlasting memes. CA is : FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL ",
             },
             {
               button: y(() => [
                 s("div", st, [
                   c(o, {
                     "is-link": "",
-                    link: "buylink",
+                    link: "
+https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
                     title: "Buy In Raydium",
                   }),
                   c(o, {
                     "is-link": "",
-                    link: "chartlink",
-                    title: "Check In Dextools",
+                    link: "https://dexscreener.com/solana/9dzz5vxscp43azbklbuhaj7abgryswgvnbz9tjqayhrd",
+                    title: "Check In Dexscreener",
                   }),
                 ]),
               ]),
@@ -1189,7 +1193,8 @@ $WSB is a meme coin that does not have any intrinsic value or expectation of fin
                 button: y(() => [
                   c(p, {
                     "is-link": "",
-                    link: "buylink",
+                    link: "
+https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
                     title: "Buy $WSB",
                   }),
                 ]),
