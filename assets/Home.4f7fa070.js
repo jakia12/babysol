@@ -1,31 +1,31 @@
 import {
-    t as $,
-    c as B,
-    v as G,
-    i as H,
-    l as I,
-    s as J,
-    f as K,
-    q as L,
-    e as M,
-    k as O,
-    g as P,
-    u as Q,
-    h as S,
-    m as U,
-    p as X,
-    x as Z,
-    r as a,
-    d as c,
-    o as d,
-    y as ee,
-    b as f,
-    j as g,
-    _ as h,
-    F as k,
-    a as s,
-    n as v,
-    w as y,
+  t as $,
+  c as B,
+  v as G,
+  i as H,
+  l as I,
+  s as J,
+  f as K,
+  q as L,
+  e as M,
+  k as O,
+  g as P,
+  u as Q,
+  h as S,
+  m as U,
+  p as X,
+  x as Z,
+  r as a,
+  d as c,
+  o as d,
+  y as ee,
+  b as f,
+  j as g,
+  _ as h,
+  F as k,
+  a as s,
+  n as v,
+  w as y,
 } from "./index.5553c785.js";
 const te = "/assets/logo.png",
   ne = { name: "Logo", props: { footer: { type: Boolean, default: !1 } } },
@@ -171,8 +171,7 @@ const ge = h(me, [["render", xe]]),
           },
           {
             name: "Buy $WSB",
-            url: "
-https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
+            url: "buylink",
             anchor: !0,
           },
           { name: "Twitter", url: "twitterlink", anchor: !0 },
@@ -282,8 +281,7 @@ function je(e, n, t, r, l, u) {
           c(m, {
             class: "xl:flex hidden",
             "is-link": "",
-            link: "
-https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
+            link: "buylink",
             title: "Buy $WSB",
           }),
           s("div", ke, [
@@ -369,8 +367,7 @@ https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCX
                   c(m, {
                     "is-link": "",
                     light: "",
-                    link: "
-https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
+                    link: "buylink",
                     title: "Buy $WSB",
                     class: "mx-4 mb-4",
                   }),
@@ -692,8 +689,7 @@ function at(e, n, t, r, l, u) {
                 s("div", st, [
                   c(o, {
                     "is-link": "",
-                    link: "
-https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
+                    link: "buylink",
                     title: "Buy In Raydium",
                   }),
                   c(o, {
@@ -1193,8 +1189,7 @@ $WSB is a meme coin that does not have any intrinsic value or expectation of fin
                 button: y(() => [
                   c(p, {
                     "is-link": "",
-                    link: "
-https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
+                    link: "buylink",
                     title: "Buy $WSB",
                   }),
                 ]),
