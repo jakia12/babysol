@@ -166,18 +166,18 @@ const ge = h(me, [["render", xe]]),
           { name: "Home", url: "/" },
           {
             name: "Chart",
-            url: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
+            url: "chartlink",
             anchor: !0,
           },
           {
             name: "Buy $WSB",
-            url: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+            url: "buylink",
             anchor: !0,
           },
-          { name: "Twitter", url: "https://twitter.com/WSB_BABY", anchor: !0 },
+          { name: "Twitter", url: "twitterlink", anchor: !0 },
           {
             name: "Telegram",
-            url: "https://t.me/wallstreetbaby_portal",
+            url: "tglink",
             anchor: !0,
           },
         ],
@@ -281,7 +281,7 @@ function je(e, n, t, r, l, u) {
           c(m, {
             class: "xl:flex hidden",
             "is-link": "",
-            link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+            link: "buylink",
             title: "Buy $WSB",
           }),
           s("div", ke, [
@@ -367,7 +367,7 @@ function je(e, n, t, r, l, u) {
                   c(m, {
                     "is-link": "",
                     light: "",
-                    link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+                    link: "buylink",
                     title: "Buy $WSB",
                     class: "mx-4 mb-4",
                   }),
@@ -689,12 +689,12 @@ function at(e, n, t, r, l, u) {
                 s("div", st, [
                   c(o, {
                     "is-link": "",
-                    link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
-                    title: "Buy In Uniswap",
+                    link: "buylink",
+                    title: "Buy In Raydium",
                   }),
                   c(o, {
                     "is-link": "",
-                    link: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
+                    link: "chartlink",
                     title: "Check In Dextools",
                   }),
                 ]),
@@ -1189,7 +1189,7 @@ $WSB is a meme coin that does not have any intrinsic value or expectation of fin
                 button: y(() => [
                   c(p, {
                     "is-link": "",
-                    link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+                    link: "buylink",
                     title: "Buy $WSB",
                   }),
                 ]),
