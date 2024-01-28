@@ -177,7 +177,7 @@ const ge = h(me, [["render", xe]]),
           { name: "Twitter", url: "twitterlink", anchor: !0 },
           {
             name: "Telegram",
-            url: "tglink",
+            url: "https://t.me/wallstreetbabysol",
             anchor: !0,
           },
         ],
