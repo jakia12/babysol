@@ -171,7 +171,7 @@ const ge = h(me, [["render", xe]]),
           },
           {
             name: "Buy $WSB",
-            url: "buylink",
+            url: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
             anchor: !0,
           },
           { name: "Twitter", url: "twitterlink", anchor: !0 },
@@ -281,7 +281,7 @@ function je(e, n, t, r, l, u) {
           c(m, {
             class: "xl:flex hidden",
             "is-link": "",
-            link: "buylink",
+            link: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
             title: "Buy $WSB",
           }),
           s("div", ke, [
@@ -367,7 +367,7 @@ function je(e, n, t, r, l, u) {
                   c(m, {
                     "is-link": "",
                     light: "",
-                    link: "buylink",
+                    link: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=FwnB2D9VXXV5z2HXoJNKCXKeEpKZ6ECKJRKrtG5zpjTL &fixed=in",
                     title: "Buy $WSB",
                     class: "mx-4 mb-4",
                   }),
